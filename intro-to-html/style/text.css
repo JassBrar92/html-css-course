@@ -1,0 +1,21 @@
+
+      .p1{
+        font-family:"Noto Sans Gurmukhi";
+        font-weight: bold;
+        font-style: italic;
+        /*text-decoration: underline;*/
+      }
+      .p2{
+        background-color: red;
+        margin-bottom: 50px;
+        text-align: center;
+        padding: 10px;
+      }
+      .link{
+        cursor: pointer;
+        margin-left: 20px;
+      }
+      .link:hover{
+      color: red;
+      text-decoration: underline;
+      }
